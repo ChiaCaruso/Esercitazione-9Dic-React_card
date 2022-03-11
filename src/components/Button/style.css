@@ -1,0 +1,12 @@
+.card__button{
+    display: block;
+    text-align: center;
+    background-color: #000;
+    border: 2px solid #000;
+    padding: 10px 55px;
+    margin: 40px auto 10px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 8px;
+    color: #fff;
+  }

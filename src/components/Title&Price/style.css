@@ -1,0 +1,6 @@
+.title-price__box{
+    padding: 50px 40px 0;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+  }
